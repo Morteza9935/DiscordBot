@@ -56,7 +56,7 @@ const config = {
 		tick: ':white_check_mark:',
 	},
 	// URL to mongodb
-	MongoDBURl: 'mongodb://link',
+	MongoDBURl: 'mongodb+srv://morteza:morteza@cluster0.bjzwl.mongodb.net/deltafllbot?retryWrites=true&w=majority',
 	// if you want debugging turned on or not
 	debug: false,
 };
