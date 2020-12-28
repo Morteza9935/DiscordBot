@@ -56,7 +56,7 @@ const config = {
 		tick: ':white_check_mark:',
 	},
 	// URL to mongodb
-	MongoDBURl: 'mongodb+srv://morteza:PzDn8Tz15mbNHOJN@cluster0.bjzwl.mongodb.net/<dbname>?retryWrites=true&w=majority',
+	MongoDBURl: 'mongodb+srv://morteza:PzDn8Tz15mbNHOJN@cluster0.bjzwl.mongodb.net/fullbot?retryWrites=true&w=majority',
 	// if you want debugging turned on or not
 	debug: false,
 };
